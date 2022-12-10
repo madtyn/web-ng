@@ -14,7 +14,7 @@ Saludos! Nace Python Coruña y pretendemos crear comunidad de Pythoneers en esta
 Ya hemos realizado alguna quedada, pero esta es nuestra primero reunión formal como comunidad Python y la intención es mantener una regularidad presencial de debates sobre programación acompañada de ponencias, proyectos de programación y actividades relacionadas. 
 
 
-Esta primera reunión tendrá lugar en el Centro Ágora de A Coruña el 10 de Diciembre de 2022 a las 19:00h.
+Esta primera reunión tendrá lugar en el Centro Liceo La Paz de A Coruña el 10 de Diciembre de 2022 a las 19:00h.
 
 Si te gusta programar y quieres aprender o ya sabes programar en Python, anímate a pasarte.
 
